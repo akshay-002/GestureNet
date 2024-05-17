@@ -1,7 +1,5 @@
 # Gesture Recognition using ResNet50
 
-![License](https://img.shields.io/badge/license-MIT-blue.svg)
-
 
 This project implements a gesture recognition system using a modified ResNet50 architecture. The system is trained on a dataset of images representing various hand gestures and aims to classify them into one of ten categories. The project involves data preprocessing, model training, and evaluation.
 
